@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I consider myself a lifelong learner of mathematics, probability. I am very interested to improve human decisions using data. . I am currently a Machine Learning Intern building cutting edge Deep Learning Computer Vision Models at PG&amp;E. I have . I will graduate from Data Science Program at University of San Francisco this june, I am open to full time ML/DS jobs. .",
           "url": "https://nithish08.github.io/ds-blog/about/",
           "relUrl": "/about/",
           "date": ""
