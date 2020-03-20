@@ -4,10 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I consider myself a lifelong learner of mathematics, probability. I am very interested to improve human decisions using data.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am currently a Machine Learning Intern building cutting edge Deep Learning Computer Vision Models at PG&E. I have 
+
+I will graduate from Data Science Program at University of San Francisco this june, I am open to full time ML/DS jobs.
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
