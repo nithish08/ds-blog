@@ -1,10 +1,15 @@
 ---
+noteId: "945572a0961c11ea88d34f1104850d33"
+tags: []
 toc: true
-layout: post
-description: Interesting points from Thinking, Fast and Slow
-categories: [markdown]
-title: Interesting points from Thinking, Fast and Slow
+layout: "post"
+description: "Interesting points from Thinking, Fast and Slow"
+categories:
+  - "markdown"
+title: "Interesting points from Thinking, Fast and Slow"
+
 ---
+
 # Interesting points from Thinking, Fast and Slow
 
 1. Anything that occupies working memory reduces ability to think.

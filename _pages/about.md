@@ -1,15 +1,32 @@
 ---
-layout: page
-title: About Me
-permalink: /about/
+noteId: "bee43920961c11ea88d34f1104850d33"
+tags: []
+layout: "page"
+title: "About Me"
+permalink: "/about/"
+
 ---
+<style>
+img { border-radius: 50%;
+      margin: 0 30px; } 
+// top and bottom 0, left and right 10px
+</style>
 
-I consider myself a lifelong learner of mathematics, probability. I am enjoy building data science solutions to improve human decisions and productivity.
-
-I am currently a **Machine Learning Intern** at PG&E building cutting edge Deep Learning Computer Vision Models. 
-
-I will graduate from **Data Science Program** at University of San Francisco this june, I am open to full time ML/DS jobs.
+<img src="../images/my_pic.jpg" align="center" width="200"/> 
 
 
-### [My Resume](https://docs.google.com/document/d/1MUduEwiiOMOErsPgnhbOVKOjgcJUn4SoLqyo3ib5XEc/edit?usp=sharing)
 
+I am a business-minded Data Scientist with a proven experience of building solutions for diverse set of data science problems. I consider myself a lifelong learner of mathematics and AI.
+
+I am currently a **Data Science Intern** at PG&E building cutting edge Deep Learning Computer Vision Models on drone imagery to detect defects in electrical grids.
+
+Previously, I worked as a **Consultant** at [Fractal](https://fractal.ai/){:target="_blank"}. I have built demand forecasting models for Fortune-500 companies, and worked on using text data to predict stock price movements.
+
+I will graduate from **Data Science Program** at University of San Francisco this June. I am now open to ML/DS opportunities.
+
+[<center>My Resume</center>](https://docs.google.com/document/d/1PHeJ6v4NmCRKsPWvZuGzKQSMarwrQDY-LxjdjHFwHt0/edit?usp=sharing){:target="_blank"}
+
+<p style="text-align: center;">[Centered text]</p>("https://docs.google.com/document/d/1PHeJ6v4NmCRKsPWvZuGzKQSMarwrQDY-LxjdjHFwHt0/edit?usp=sharing")
+
+<a href='https://docs.google.com/document/d/1PHeJ6v4NmCRKsPWvZuGzKQSMarwrQDY-LxjdjHFwHt0/edit?usp=sharing'>
+My Resume</a>

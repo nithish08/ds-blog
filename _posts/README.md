@@ -1,3 +1,9 @@
+---
+noteId: "831ce7a098df11ea88d34f1104850d33"
+tags: []
+
+---
+
 # Auto-convert markdown files To Posts
 
 [`fastpages`](https://github.com/fastai/fastpages) will automatically convert markdown files saved into this directory as blog posts!

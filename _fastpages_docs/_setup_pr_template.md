@@ -1,3 +1,9 @@
+---
+noteId: "ad7bbdc0961c11ea88d34f1104850d33"
+tags: []
+
+---
+
 Hello :wave: @nithish08!  Thank you for using fastpages!  
 
 ## Before you merge this PR
