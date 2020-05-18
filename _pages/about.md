@@ -24,9 +24,4 @@ Previously, I worked as a **Consultant** at [Fractal](https://fractal.ai/){:targ
 
 I will graduate from **Data Science Program** at University of San Francisco this June. I am now open to ML/DS opportunities.
 
-[<center>My Resume</center>](https://docs.google.com/document/d/1PHeJ6v4NmCRKsPWvZuGzKQSMarwrQDY-LxjdjHFwHt0/edit?usp=sharing){:target="_blank"}
-
-<p style="text-align: center;">[Centered text]</p>("https://docs.google.com/document/d/1PHeJ6v4NmCRKsPWvZuGzKQSMarwrQDY-LxjdjHFwHt0/edit?usp=sharing")
-
-<a href='https://docs.google.com/document/d/1PHeJ6v4NmCRKsPWvZuGzKQSMarwrQDY-LxjdjHFwHt0/edit?usp=sharing'>
-My Resume</a>
+[My Resume](https://docs.google.com/document/d/1PHeJ6v4NmCRKsPWvZuGzKQSMarwrQDY-LxjdjHFwHt0/edit?usp=sharing){: .btn}{:target="_blank"}{: .bttn}
