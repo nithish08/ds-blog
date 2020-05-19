@@ -38,9 +38,20 @@
   
 
   
+      ,"page3": {
+          "title": "Competitions",
+          "content": "Richter’s Predictor: Modeling Earthquake Damage. . Predict level damage done to buildings based on aspects of location and construction. . Ranked in Top 1%. . . Demand Forecasting . . Demand forecasting with high noise-to-signal data. . Ranked in Top 1%. . . Cab Trip Fare Prediction . . Predict the cab trip fare based on details of trip. . Ranked in Top 1%. . .",
+          "url": "https://nithish08.github.io/ds-blog/competitions/",
+          "relUrl": "/competitions/",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page4": {
+
+  
+      ,"page5": {
           "title": "Featured Projects",
           "content": "Machine Learning in distributed computing environment on big sensor data collected from smart homes . [PySpark, scikit-learn, MLlib, PCA, Big Data, Sensor Data] . Our paper, “​Sensor Selection for Activity Classification at Smart Home Environments” was accepted for presentation at the IEEE Engineering in Medicine and Biology Society Conference 2020, in Montréal, Québec, Canada. . . Dilated Convolutionals, Gated Recurrent Units, Long-Short Term Memory Networks on Time-series data . [PyTorch, CNN, GRU, LSTM, Time series modeling, Feature Engineering] . As part of in-class modeling competition at USF, I have explored various deep learning techniques for modeling time-series data. . .",
           "url": "https://nithish08.github.io/ds-blog/projects/",
