@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "Interesting points from Thinking, Fast and Slow",
-            "content": "Anything that occupies working memory reduces ability to think. | Priming Effect is significant. | Our minds tend to choose familiar over true. | Studying our own faults are extremely hard. |",
+            "title": "Excerpts from Thinking, Fast and Slow",
+            "content": "Thinking, Fast and Slow is book Daniel Kahneman . Anything that occupies working memory reduces ability to think. | Priming Effect is significant. | Our minds tend to choose familiar over true. | Studying our own faults are extremely hard. |",
             "url": "https://nithish08.github.io/ds-blog/markdown/2020/04/03/thinking_fast_and_slow.html",
             "relUrl": "/markdown/2020/04/03/thinking_fast_and_slow.html",
             "date": " • Apr 3, 2020"
@@ -40,7 +40,7 @@
   
       ,"page2": {
           "title": "About Me",
-          "content": ". I am a business-minded Data Scientist with a proven experience of building solutions for diverse set of data science problems. I consider myself a lifelong learner of mathematics and AI. . I am currently a Data Science Intern at PG&amp;E building cutting edge Deep Learning Computer Vision Models on drone imagery to detect defects in electrical grids. . Previously, I worked as a Consultant at Fractal. I have built demand forecasting models for Fortune-500 companies, and worked on using text data to predict stock price movements. . I will graduate from Data Science Program at University of San Francisco this June. I am now open to ML/DS opportunities. . My Resume .",
+          "content": ". . My Resume . LinkedIn . . I am a business-minded Data Scientist with a proven experience of building solutions for diverse set of data science problems. I consider myself a lifelong learner of mathematics and AI. . I am currently a Data Science Intern at PG&amp;E building cutting edge Deep Learning Computer Vision Models on drone imagery to detect defects in electrical grids. . Previously, I worked as a Consultant at Fractal. I have built demand forecasting models for Fortune-500 companies, and worked on using text data to predict stock price movements. . I will graduate from Data Science Program at University of San Francisco this June. I am now open to ML/DS opportunities. .",
           "url": "https://nithish08.github.io/ds-blog/about/",
           "relUrl": "/about/",
           "date": ""
@@ -48,6 +48,17 @@
       
   
 
+  
+
+  
+      ,"page4": {
+          "title": "Featured Projects",
+          "content": "Machine Learning in distributed computing environment sensor data in smart homes . . Our paper, “​Sensor Selection for Activity Classification at Smart Home Environments” was accepted for presentation at the IEEE Engineering in Medicine and Biology Society Conference 2020, in Montréal, Québec, Canada. . . Dilated Convolutionals, Gated Recurrent Units, Long-Short Term Memory Networks on Time-series data . . As part of in-class modeling competition at USF, I have explored various deep learning techniques for modeling time-series data. .",
+          "url": "https://nithish08.github.io/ds-blog/projects/",
+          "relUrl": "/projects/",
+          "date": ""
+      }
+      
   
 
   
