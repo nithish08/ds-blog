@@ -1,3 +1,9 @@
+---
+noteId: "908cae20997a11ea88d34f1104850d33"
+tags: []
+
+---
+
 # Automatically Convert MS Word (*.docx) Documents To Blog Posts
 
 _Note: You can convert Google Docs to Word Docs by navigating to the File menu, and selecting Download > Microsoft Word (.docx)_
