@@ -15,7 +15,7 @@ Andrew Ng in this [video](https://www.youtube.com/watch?v=733m6qBH-jI) advised o
 
 ### How to read a research paper
 
-The key to quickly understand the papers is not to read every word in the paper. Instead, we need to take multiple passes through the paper.
+The key to quickly understand a paper is not to read every word in the paper. Instead, we need to take multiple passes through the paper.
 
 - Pass 1 - Read Title, Abstract, and figures to get an overview of the paper.
 - Pass 2 - Read the Introduction, conclusions, and figures again. Skim through the related papers if it's difficult to grasp the meaning.

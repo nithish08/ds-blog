@@ -24,6 +24,6 @@ I am currently a **Data Science Intern** at PG&E building cutting edge Deep Lear
 
 Previously, I worked as a **Consultant** at [Fractal](https://fractal.ai/){:target="_blank"}. I have built demand forecasting models for Fortune-500 companies, and worked on using text data to predict stock price movements.
 
-I will graduate from **Data Science Program** at University of San Francisco this June. I am now open to ML/DS opportunities.
+I will graduate from **Data Science Program** at University of San Francisco this June. I am currently looking for DS/ML opportunities.
 
 Email ID: [nbolleddula@dons.usfca.edu](mailto:nbolleddula@dons.usfca.edu)

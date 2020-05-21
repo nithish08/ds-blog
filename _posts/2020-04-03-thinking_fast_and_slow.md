@@ -7,6 +7,7 @@ categories:
 title: "Excerpts from Thinking, Fast and Slow"
 
 ---
+
 [Thinking, Fast and Slow](https://g.co/kgs/Zjh597) is book [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)
 
 1. Anything that occupies working memory reduces ability to think.

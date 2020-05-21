@@ -1,8 +1,3 @@
----
-noteId: "1385309098e511ea88d34f1104850d33"
-tags: []
-
----
 
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
