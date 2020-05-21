@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://nithish08.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://nithish08.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-05-19T17:46:42-05:00</updated><id>https://nithish08.github.io/ds-blog/feed.xml</id><title type="html">Nithish Bolleddula</title><subtitle>nbolleddula@dons.usfca.edu</subtitle><entry><title type="html">Excerpts from Thinking, Fast and Slow</title><link href="https://nithish08.github.io/ds-blog/markdown/2020/04/03/thinking_fast_and_slow.html" rel="alternate" type="text/html" title="Excerpts from Thinking, Fast and Slow" /><published>2020-04-03T00:00:00-05:00</published><updated>2020-04-03T00:00:00-05:00</updated><id>https://nithish08.github.io/ds-blog/markdown/2020/04/03/thinking_fast_and_slow</id><content type="html" xml:base="https://nithish08.github.io/ds-blog/markdown/2020/04/03/thinking_fast_and_slow.html">&lt;p&gt;&lt;a href=&quot;https://g.co/kgs/Zjh597&quot;&gt;Thinking, Fast and Slow&lt;/a&gt; is book &lt;a href=&quot;https://en.wikipedia.org/wiki/Daniel_Kahneman&quot;&gt;Daniel Kahneman&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://nithish08.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://nithish08.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-05-20T23:52:06-05:00</updated><id>https://nithish08.github.io/ds-blog/feed.xml</id><title type="html">Nithish Bolleddula</title><subtitle>nbolleddula@dons.usfca.edu</subtitle><entry><title type="html">Advice on Reading Research papers</title><link href="https://nithish08.github.io/ds-blog/markdown/2020/05/20/advice-on-reading-research-papers.html" rel="alternate" type="text/html" title="Advice on Reading Research papers" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://nithish08.github.io/ds-blog/markdown/2020/05/20/advice-on-reading-research-papers</id><content type="html" xml:base="https://nithish08.github.io/ds-blog/markdown/2020/05/20/advice-on-reading-research-papers.html">&lt;p&gt;Andrew Ng in this &lt;a href=&quot;https://www.youtube.com/watch?v=733m6qBH-jI&quot;&gt;video&lt;/a&gt; advised on how to read research papers. I will try to summarize his advice here.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;how-to-read-a-research-paper&quot;&gt;How to read a research paper&lt;/h3&gt;
+
+&lt;p&gt;The key to quickly understand the papers is not to read every word in the paper. Instead, we need to take multiple passes through the paper.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pass 1 - Read Title, Abstract, and figures to get an overview of the paper.&lt;/li&gt;
+  &lt;li&gt;Pass 2 - Read the Introduction, conclusions, and figures again. Skim through the related papers if it’s difficult to grasp the meaning.&lt;/li&gt;
+  &lt;li&gt;Pass 3 - Read the paper but skip the math for now.&lt;/li&gt;
+  &lt;li&gt;Pass 4 - Read the whole part but you can skip the parts that don’t make sense. Often you may not require all the parts to understand and implement an idea. Example half of the LeNet paper talks about other research that’s being done on image processing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;how-to-know-if-we-understood-the-paper&quot;&gt;How to know if we understood the paper&lt;/h3&gt;
+
+&lt;p&gt;Following questions will help us to know whether we understood the paper we have read:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What are the authors trying to accomplish?&lt;/li&gt;
+  &lt;li&gt;What are the key elements of the approach?&lt;/li&gt;
+  &lt;li&gt;What can you use yourself?&lt;/li&gt;
+  &lt;li&gt;What other resources do you want to follow?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;how-to-keep-up-with-research-in-ml&quot;&gt;How to keep up with research in ML:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Twitter&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/MachineLearning/&quot;&gt;ML subreddit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NIPS, ICML, ICLR conferences. Skim through the topics and read when you find something interesting.&lt;/li&gt;
+  &lt;li&gt;Friends.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;how-to-understand-math-in-the-paper&quot;&gt;How to understand Math in the paper:&lt;/h3&gt;
+
+&lt;p&gt;If we can rederive equations mentioned in the paper from scratch. This gives us the ability to do something novel.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;how-to-understand-the-code&quot;&gt;How to understand the code:&lt;/h3&gt;
+
+&lt;p&gt;Try to find a simple open-source code and run it.
+Reimplement from scratch, to understand the algorithm. No alternative.&lt;/p&gt;</content><author><name></name></author><summary type="html">Andrew Ng in this video advised on how to read research papers. I will try to summarize his advice here.</summary></entry><entry><title type="html">Excerpts from Thinking, Fast and Slow</title><link href="https://nithish08.github.io/ds-blog/markdown/2020/04/03/thinking_fast_and_slow.html" rel="alternate" type="text/html" title="Excerpts from Thinking, Fast and Slow" /><published>2020-04-03T00:00:00-05:00</published><updated>2020-04-03T00:00:00-05:00</updated><id>https://nithish08.github.io/ds-blog/markdown/2020/04/03/thinking_fast_and_slow</id><content type="html" xml:base="https://nithish08.github.io/ds-blog/markdown/2020/04/03/thinking_fast_and_slow.html">&lt;p&gt;&lt;a href=&quot;https://g.co/kgs/Zjh597&quot;&gt;Thinking, Fast and Slow&lt;/a&gt; is book &lt;a href=&quot;https://en.wikipedia.org/wiki/Daniel_Kahneman&quot;&gt;Daniel Kahneman&lt;/a&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Anything that occupies working memory reduces ability to think.&lt;/li&gt;
