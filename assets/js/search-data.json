@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Advice on Reading Research papers",
-            "content": "Andrew Ng in this video advised on how to read research papers. I will try to summarize his advice here. . . How to read a research paper . The key to quickly understand the papers is not to read every word in the paper. Instead, we need to take multiple passes through the paper. . Pass 1 - Read Title, Abstract, and figures to get an overview of the paper. | Pass 2 - Read the Introduction, conclusions, and figures again. Skim through the related papers if it’s difficult to grasp the meaning. | Pass 3 - Read the paper but skip the math for now. | Pass 4 - Read the whole part but you can skip the parts that don’t make sense. Often you may not require all the parts to understand and implement an idea. Example half of the LeNet paper talks about other research that’s being done on image processing. | . . How to know if we understood the paper . Following questions will help us to know whether we understood the paper we have read: . What are the authors trying to accomplish? | What are the key elements of the approach? | What can you use yourself? | What other resources do you want to follow? | . . How to keep up with research in ML: . Twitter | ML subreddit | NIPS, ICML, ICLR conferences. Skim through the topics and read when you find something interesting. | Friends. | . How to understand Math in the paper: . If we can rederive equations mentioned in the paper from scratch. This gives us the ability to do something novel. . . How to understand the code: . Try to find a simple open-source code and run it. Reimplement from scratch, to understand the algorithm. No alternative. .",
+            "content": "Andrew Ng in this video advised on how to read research papers. I will try to summarize his advice here. . . How to read a research paper . The key to quickly understand a paper is not to read every word in the paper. Instead, we need to take multiple passes through the paper. . Pass 1 - Read Title, Abstract, and figures to get an overview of the paper. | Pass 2 - Read the Introduction, conclusions, and figures again. Skim through the related papers if it’s difficult to grasp the meaning. | Pass 3 - Read the paper but skip the math for now. | Pass 4 - Read the whole part but you can skip the parts that don’t make sense. Often you may not require all the parts to understand and implement an idea. Example half of the LeNet paper talks about other research that’s being done on image processing. | . . How to know if we understood the paper . Following questions will help us to know whether we understood the paper we have read: . What are the authors trying to accomplish? | What are the key elements of the approach? | What can you use yourself? | What other resources do you want to follow? | . . How to keep up with research in ML: . Twitter | ML subreddit | NIPS, ICML, ICLR conferences. Skim through the topics and read when you find something interesting. | Friends. | . How to understand Math in the paper: . If we can rederive equations mentioned in the paper from scratch. This gives us the ability to do something novel. . . How to understand the code: . Try to find a simple open-source code and run it. Reimplement from scratch, to understand the algorithm. No alternative. .",
             "url": "https://nithish08.github.io/ds-blog/markdown/2020/05/20/advice-on-reading-research-papers.html",
             "relUrl": "/markdown/2020/05/20/advice-on-reading-research-papers.html",
             "date": " • May 20, 2020"
@@ -28,19 +28,8 @@
 
   
       ,"page1": {
-          "title": "",
-          "content": ". https://nithish08.github.io/ds-blog/ . My Blog . powered by fastpages . What To Do Next? . Great! You have setup your repo. Now its time to start writing content. Some helpful links: . Writing Blogs With Jupyter . | Writing Blogs With Markdown . | Writing Blog Posts With Word . | (Optional) Preview Your Blog Locally . | . Note: you may want to remove example blog posts from the _posts, _notebooks or _word folders (but leave them empty, don’t delete these folders) if you don’t want these blog posts to appear on your site. . Please use the nbdev &amp; blogging channel in the fastai forums for any questions or feature requests. .",
-          "url": "https://nithish08.github.io/ds-blog/README.html",
-          "relUrl": "/README.html",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page2": {
           "title": "About Me",
-          "content": ". . My Resume . LinkedIn . . I am a business-minded Data Scientist with a proven experience of building solutions for diverse set of data science problems. I consider myself a lifelong learner of mathematics and AI. . I am currently a Data Science Intern at PG&amp;E building cutting edge Deep Learning Computer Vision Models on drone imagery to detect defects in electrical grids. . Previously, I worked as a Consultant at Fractal. I have built demand forecasting models for Fortune-500 companies, and worked on using text data to predict stock price movements. . I will graduate from Data Science Program at University of San Francisco this June. I am now open to ML/DS opportunities. . Email ID: nbolleddula@dons.usfca.edu .",
+          "content": ". . My Resume . LinkedIn . . I am a business-minded Data Scientist with a proven experience of building solutions for diverse set of data science problems. I consider myself a lifelong learner of mathematics and AI. . I am currently a Data Science Intern at PG&amp;E building cutting edge Deep Learning Computer Vision Models on drone imagery to detect defects in electrical grids. . Previously, I worked as a Consultant at Fractal. I have built demand forecasting models for Fortune-500 companies, and worked on using text data to predict stock price movements. . I will graduate from Data Science Program at University of San Francisco this June. I am currently looking for DS/ML opportunities. . Email ID: nbolleddula@dons.usfca.edu .",
           "url": "https://nithish08.github.io/ds-blog/about/",
           "relUrl": "/about/",
           "date": ""
@@ -49,7 +38,7 @@
   
 
   
-      ,"page3": {
+      ,"page2": {
           "title": "Competitions",
           "content": "Richter’s Predictor: Modeling Earthquake Damage. . Predict level damage done to buildings based on aspects of location and construction. . Ranked in Top 1%. . . Demand Forecasting . . Demand forecasting with high noise-to-signal data. . Ranked in Top 1%. . . Cab Trip Fare Prediction . . Predict the cab trip fare based on details of trip. . Ranked in Top 1%. . .",
           "url": "https://nithish08.github.io/ds-blog/competitions/",
@@ -62,7 +51,7 @@
   
 
   
-      ,"page5": {
+      ,"page4": {
           "title": "Featured Projects",
           "content": "Machine Learning in distributed computing environment on big sensor data collected from smart homes . [PySpark, scikit-learn, MLlib, PCA, Big Data, Sensor Data] . Our paper, “​Sensor Selection for Activity Classification at Smart Home Environments” was accepted for presentation at the IEEE Engineering in Medicine and Biology Society Conference 2020, in Montréal, Québec, Canada. . . Dilated Convolutionals, Gated Recurrent Units, Long-Short Term Memory Networks on Time-series data . [PyTorch, CNN, GRU, LSTM, Time series modeling, Feature Engineering] . As part of in-class modeling competition at USF, I have explored various deep learning techniques for modeling time-series data. . .",
           "url": "https://nithish08.github.io/ds-blog/projects/",
