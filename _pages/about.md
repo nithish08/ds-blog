@@ -18,12 +18,15 @@ permalink: "/about/"
 <p>
 <br>
 </p>
-I am a business-minded Data Scientist with proven experience in building solutions for a diverse set of data science problems. I consider myself a lifelong learner of mathematics and AI.
+I am a Data Scientist with experience of building solutions to diverse set of problems spanning the field. I consider myself a lifelong learner of mathematics and AI.
 
-I am currently a **Data Science Intern** at PG&E building cutting edge Deep Learning Computer Vision Models on drone imagery to detect defects in electrical grids.
+I graduated from University of San Francisco [Masters in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) Program recently. In 2017, I graduated from [IIT-BHU](https://www.iitbhu.ac.in/).
 
-Previously, I worked as a **Consultant** at [Fractal](https://fractal.ai/){:target="_blank"}. I have built demand forecasting models for Fortune-500 companies and worked on using text data to predict stock price movements.
+I worked as a **Data Science Intern** at PG&E building Yolo-based Convolutional Neural Networks (CNN) on drone imagery to detect defects in power gridlines.
 
-I will graduate from **Data Science Program** at the University of San Francisco this June. I am currently looking for DS/ML opportunities.
+Before joining my master program, I worked as a **Data Science Consultant** at [Fractal](https://fractal.ai/){:target="_blank"}, where I have built demand forecasting models for Fortune-500 companies and worked on extracting insights out of text data using Natural Language Processing Techniques.
 
-Email ID: [nbolleddula@dons.usfca.edu](mailto:nbolleddula@dons.usfca.edu)
+
+Reach out to me at: 
+
+Email ID: [nithish.bhu@gmail.com](mailto:nithish.bhu@gmail.com)
