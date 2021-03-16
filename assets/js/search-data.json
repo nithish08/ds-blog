@@ -53,7 +53,7 @@
   
       ,"page4": {
           "title": "Featured Projects",
-          "content": "Machine Learning in distributed computing environment on big sensor data collected from smart homes . [PySpark, scikit-learn, MLlib, PCA, Big Data, Sensor Data] . Our paper, “​Sensor Selection for Activity Classification at Smart Home Environments” was accepted for presentation at the IEEE Engineering in Medicine and Biology Society Conference 2020, in Montréal, Québec, Canada. . . Dilated Convolutionals, Gated Recurrent Units, Long-Short Term Memory Networks on Time-series data . [PyTorch, CNN, GRU, LSTM, Time series modeling, Feature Engineering] . As part of in-class modeling competition at USF, I have explored various deep learning techniques for modeling time-series data. . .",
+          "content": "Machine Learning in distributed computing environment on big sensor data collected from smart homes . [PySpark, scikit-learn, MLlib, PCA, Big Data, Sensor Data] . Our paper, “​Sensor Selection for Activity Classification at Smart Home Environments” was published at the IEEE Engineering in Medicine and Biology Society Conference 2020, in Montréal, Québec, Canada. . . Dilated Convolutionals, Gated Recurrent Units, Long-Short Term Memory Networks on Time-series data . [PyTorch, CNN, GRU, LSTM, Time series modeling, Feature Engineering] . As part of in-class modeling competition at USF, I have explored various deep learning techniques for modeling time-series data. . . Minimal Docker Application with running Deep Learning model . [TesorFlow, Docker, Flask] . .",
           "url": "https://nithish08.github.io/ds-blog/projects/",
           "relUrl": "/projects/",
           "date": ""
