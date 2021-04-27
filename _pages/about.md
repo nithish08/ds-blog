@@ -7,7 +7,7 @@ permalink: "/about/"
 
 ---
 
- <img align='center' src="../images/my_pic.jpg" width="150" />
+ <img align='center' src="../images/my_pic.jpeg" width="150" />
 
 <p>
 </p>
